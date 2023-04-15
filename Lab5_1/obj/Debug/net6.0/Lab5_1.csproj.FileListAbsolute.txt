@@ -1,0 +1,15 @@
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\bin\Debug\net6.0\Lab5_1.exe
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\bin\Debug\net6.0\Lab5_1.deps.json
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\bin\Debug\net6.0\Lab5_1.runtimeconfig.json
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\bin\Debug\net6.0\Lab5_1.dll
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\bin\Debug\net6.0\Lab5_1.pdb
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.AssemblyInfo.cs
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.dll
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\refint\Lab5_1.dll
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.pdb
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\Lab5_1.genruntimeconfig.cache
+C:\Users\Max\source\repos\Lab5_1\Lab5_1\obj\Debug\net6.0\ref\Lab5_1.dll
